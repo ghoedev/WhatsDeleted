@@ -5,13 +5,13 @@
     <string name="whatsapp_notification_listener_service">Отслеживание уведомлений WhatsApp</string>
     <string name="media_observer_service">Сервис Отслеживания Медиа файлов</string>
 
-    <!-- activity_main.xml -->
+    <!-- activity_recover.xml -->
     <string name="view">Посмотреть</string>
     <string name="delete">Удалить Всё</string>
     <string name="media_observer">Отслеживание медиа файлов</string>
     <string name="notification_listener">Отслеживание уведомлений</string>
 
-    <!-- MainActivity.kt -->
+    <!-- RecoverActivity.kt -->
     <string name="msg_log_status_str">Записи журнала: %1$s</string>
     <string name="img_dir_status_str">Директория изображений: %1$s</string>
 

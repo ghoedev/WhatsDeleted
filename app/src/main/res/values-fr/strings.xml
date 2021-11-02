@@ -5,13 +5,13 @@
     <string name="whatsapp_notification_listener_service">Lecteur de notifications WhatsApp et Signal</string>
     <string name="media_observer_service">Service d\'oservation des médias</string>
 
-    <!-- activity_main.xml -->
+    <!-- activity_recover.xml -->
     <string name="view">Vue</string>
     <string name="delete">Tout supprimer</string>
     <string name="media_observer">Observation des médias</string>
     <string name="notification_listener">Lecteur de notificatons</string>
 
-    <!-- MainActivity.kt -->
+    <!-- RecoverActivity.kt -->
     <string name="msg_log_status_str">Journal des messages : %1$s</string>
     <string name="img_dir_status_str">Répertoire des images : %1$s</string>
 
@@ -31,7 +31,7 @@
     <string name="create_msg_log_failed">Échec de la création du fichier du journal des messages</string>
 
     <string name="create_backup_dir">Création du répertoire de sauvegarde</string>
-    <string name="allow_storage_permission_msg">Les messages et les médias ne peuvent pas être enregistrés sans accès au stockage. Redémarrez l'application et autorisez la permission.</string>
+    <string name="allow_storage_permission_msg">Les messages et les médias ne peuvent pas être enregistrés sans accès au stockage. Redémarrez l\'application et autorisez la permission.</string>
 
     <string name="ok">OK</string>
     <string name="yes">Oui</string>

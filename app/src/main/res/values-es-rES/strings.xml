@@ -5,13 +5,13 @@
     <string name="whatsapp_notification_listener_service">Monitor de Notificaciones de WhatsApp</string>
     <string name="media_observer_service">Servicio Monitor de Imágenes</string>
 
-    <!-- activity_main.xml -->
+    <!-- activity_recover.xml -->
     <string name="view">Ver</string>
     <string name="delete">Borrar todo</string>
     <string name="media_observer">Monitor de Imágenes</string>
     <string name="notification_listener">Monitor De Notificaciones</string>
 
-    <!-- MainActivity.kt -->
+    <!-- RecoverActivity.kt -->
     <string name="msg_log_status_str">Registro de mensajes: %1$s</string>
     <string name="img_dir_status_str">Directorio de imágenes: %1$s</string>
 

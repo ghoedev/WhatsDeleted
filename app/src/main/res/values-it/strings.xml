@@ -5,13 +5,13 @@
     <string name="whatsapp_notification_listener_service">Registro delle notifiche di Whatsapp</string>
     <string name="media_observer_service">Registro dei media di Whatsapp</string>
 
-    <!-- activity_main.xml -->
+    <!-- activity_recover.xml -->
     <string name="view">Visualizza</string>
     <string name="delete">Elimina tutti i media</string>
     <string name="media_observer">Salva i media</string>
     <string name="notification_listener">Salva i messaggi</string>
 
-    <!-- MainActivity.kt -->
+    <!-- RecoverActivity.kt -->
     <string name="msg_log_status_str">Registro dei messaggi: %1$s</string>
     <string name="img_dir_status_str">Cartella dei media: %1$s</string>
 

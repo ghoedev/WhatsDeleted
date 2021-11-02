@@ -5,13 +5,13 @@
     <string name="whatsapp_notification_listener_service">WhatsApp Bildirim Dinleyici</string>
     <string name="media_observer_service">Medya Gözlemcisi Hizmeti</string>
 
-    <!-- activity_main.xml -->
+    <!-- activity_recover.xml -->
     <string name="view">Görünüm</string>
     <string name="delete">Tümünü Sil</string>
     <string name="media_observer">Medya Gözlemcisi</string>
     <string name="notification_listener">Bildirim Dinleyici</string>
 
-    <!-- MainActivity.kt -->
+    <!-- RecoverActivity.kt -->
     <string name="msg_log_status_str">İleti günlüğü: %1$s</string>
     <string name="img_dir_status_str">Resimler dizini: %1$s</string>
 
